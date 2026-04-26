@@ -15,7 +15,6 @@ public class EnderecoDto {
     private String ddd;
     private String siafi;
 
-    // Getters e Setters (O Jackson usa esses métodos para injetar os dados do JSON)
     public String getCep() { return cep; }
     public void setCep(String cep) { this.cep = cep; }
 
