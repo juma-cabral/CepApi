@@ -19,7 +19,7 @@ Este projeto é uma **API REST** desenvolvida em **Java** com o framework **Spri
 
 O ecossistema do projeto foi construído utilizando as seguintes tecnologias:
 
-- **Java (JDK 17 ou superior):** Linguagem principal do desenvolvimento.
+- **Java:** Linguagem principal do desenvolvimento.
 - **Spring Boot:** Framework para aceleração e estruturação da aplicação REST.
 - **Spring Web:** Para criação dos endpoints e manipulação de requisições HTTP.
 - **Maven:** Gerenciador de dependências e automação do build.
